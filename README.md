@@ -199,6 +199,10 @@ If you discover an issue or have an idea for improvement, please open an issue o
 
 Special thanks to the WSO2 community for building and maintaining the Synapse ecosystem that inspired this extension.
 
+## Demo
+
+![Flow Visualizer Demo](images/demo.gif)
+
 # Screenshots
 
 ## Activity Bar Integration
